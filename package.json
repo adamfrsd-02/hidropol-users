@@ -1,0 +1,37 @@
+{
+  "name": "hidropol-users",
+  "version": "1.0.0",
+  "description": "Hidropol API: Users API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfrsd-02/hidropol-users.git"
+  },
+  "keywords": [
+    "API",
+    "Express",
+    "Microservices"
+  ],
+  "author": "Adam Firdaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfrsd-02/hidropol-users/issues"
+  },
+  "homepage": "https://github.com/adamfrsd-02/hidropol-users#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "winston": "^3.9.0"
+  }
+}
