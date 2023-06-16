@@ -453,3 +453,4 @@ info: Label🏷️: Jun-12-2023 20:03:42: 200 || OK - /api/v1/auth/login - POST 
 info: Label🏷️: Jun-12-2023 20:05:37: 200 || OK - /api/v1/auth/login - POST - ::ffff:127.0.0.1
 info: Label🏷️: Jun-13-2023 09:48:52: 200 || OK - /api/v1/auth/login - POST - ::ffff:127.0.0.1
 info: Label🏷️: Jun-13-2023 09:49:38: 200 || OK - /api/v1/auth/login - POST - ::ffff:127.0.0.1
+info: Label🏷️: Jun-16-2023 19:32:51: 200 || OK - /api/v1/auth/login - POST - ::1
