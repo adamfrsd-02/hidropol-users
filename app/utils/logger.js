@@ -4,7 +4,7 @@ const {createLogger, format, transports} = require("winston");
 const logger = createLogger({
     'transports': [
         new transports.File({
-            filename: './logs/app.log'
+            filename: '../logs/app.log'
         })
     ],
     level: "debug",
